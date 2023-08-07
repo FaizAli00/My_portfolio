@@ -13,7 +13,7 @@ const Projects = () => {
               voluptatibus nostrum doloribus sunt consectetur omnis quos culpa, eveniet porro qui libero perferendis reprehender 
               it exercitationem ut corrupti voluptates saepe nemo vel ducimus sapiente unde tempore fugiat? Nulla, debitis 
               ducimus sint ad, quod illum magnam in consequatur eaque odit nam nihil?</p>
-              <a href="/" className="bg-blue-500 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded">View Project</a>
+              <a href="/"  className="bg-blue-500 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded">View Project</a>
             </div>
           </div>
           <div className="h-[400px] bg-gray-700 rounded-lg shadow-lg" >

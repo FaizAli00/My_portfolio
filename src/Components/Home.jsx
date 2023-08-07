@@ -28,7 +28,9 @@ const Home = () => {
 
        </Typewriter>     
         </p>
-        <a href="/" className="bg-blue-500 hover:bg-blue-700 text-slate-200 text-xl text-center  justify-center font-semibold py-2 px-4 rounded w-[15%]">Learn More</a>
+        <div>
+        <a href="/" className="bg-blue-500 hover:bg-blue-700 text-slate-200 text-xl text-center  justify-center font-semibold py-4 px-12 rounded ">Learn More</a>
+        </div>
       </div>
     </div>
     <About />
